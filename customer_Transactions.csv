@@ -1,0 +1,7 @@
+Transaction_ID,Customer_ID,Transaction_Date,Product,Quantity,Amount,Payment_Mode
+1001,101,2025-06-01,Laptop,1,55000,UPI
+1002,102,2025-06-02,Mouse,2,1200,Card
+1003,103,2025-06-03,Keyboard,1,1800,Cash
+1004,104,2025-06-04,Monitor,1,14500,UPI
+1005,105,2025-06-05,Headphones,2,3200,Card
+1006,101,2025-06-06,USB Drive,3,1800,Cash

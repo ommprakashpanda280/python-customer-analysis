@@ -1,0 +1,6 @@
+Customer_ID,Customer_Name,Gender,Age,City,State,Phone,Email,Join_Date
+101,Amit Kumar,Male,28,Bhubaneswar,Odisha,9876543210,amit@example.com,2025-01-15
+102,Priya Das,Female,25,Cuttack,Odisha,9876501234,priya@example.com,2025-02-10
+103,Rahul Panda,Male,31,Puri,Odisha,9123456780,rahul@example.com,2025-03-05
+104,Sneha Sahoo,Female,27,Rourkela,Odisha,9988776655,sneha@example.com,2025-04-12
+105,Rakesh Nayak,Male,35,Balasore,Odisha,9090909090,rakesh@example.com,2025-05-20
